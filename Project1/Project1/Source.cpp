@@ -2,7 +2,8 @@
 
 int  main()
 {
-	std::cout << "hello cat2" << std::endl;
+	std::cout << "hello fish" << std::endl;
+	std::cout << "Donewe" << std::endl;
 
 	getchar();
 	return 0;
